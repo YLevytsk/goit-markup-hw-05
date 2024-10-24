@@ -85,6 +85,10 @@ border-radius: 4px;
 width: 360px;
 height: 120px;
 }
+.modal-checkbox {
+    width: 360px;
+height: 16px;
+}
 .backdrop:not(.is-open) .modal {
     transform: translate(-50%, -100%);
 }
