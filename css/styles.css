@@ -90,7 +90,7 @@ border-radius: 4px;
 width: 360px;
 height: 40px;
 }
-.modal-input{
+.modal-input {
 border: 1px solid rgba(46, 47, 66, 0.4);
 border-radius: 4px;
 width: 360px;
@@ -103,7 +103,7 @@ width: 360px;
 height: 120px;
 }
 .modal-checkbox {
-    width: 360px;
+width: 360px;
 height: 16px;
 }
 .backdrop:not(.is-open) .modal {
