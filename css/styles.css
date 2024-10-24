@@ -18,6 +18,10 @@ body {
     width: 100%; 
     height: 100%;
     background-color: rgba(46, 47, 66, 0.4);
+    opacity: o;
+    visibility: hidden;
+    pointer-events: none;
+
 }
 .modal {
     position: absolute;
