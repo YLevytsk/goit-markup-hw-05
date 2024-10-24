@@ -73,6 +73,14 @@ border-radius: 4px;
 width: 360px;
 height: 40px;
 }
+.modal-input{
+border: 1px solid rgba(46, 47, 66, 0.4);
+border-radius: 4px;
+width: 360px;
+height: 40px;
+}
+
+
 .backdrop:not(.is-open) .modal {
     transform: translate(-50%, -100%);
 }
