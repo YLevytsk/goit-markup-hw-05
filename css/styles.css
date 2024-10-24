@@ -102,6 +102,12 @@ border-radius: 4px;
 width: 360px;
 height: 120px;
 }
+.modal-action-button {
+  position: absolute; /* Позволяет позиционировать кнопку относительно родителя */
+  bottom: 24px; /* Расстояние от низа */
+  left: 50%; /* Позиционируем по центру */
+  transform: translateX(-50%); 
+}/* Центрируем кнопку */
 .modal-checkbox {
 width: 360px;
 height: 16px;
