@@ -79,8 +79,12 @@ border-radius: 4px;
 width: 360px;
 height: 40px;
 }
-
-
+.modal-input-comment {
+border: 1px solid rgba(46, 47, 66, 0.4);
+border-radius: 4px;
+width: 360px;
+height: 120px;
+}
 .backdrop:not(.is-open) .modal {
     transform: translate(-50%, -100%);
 }
