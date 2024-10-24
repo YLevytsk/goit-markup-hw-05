@@ -61,6 +61,11 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 }
+.modal-field {
+   border-radius: 4px;
+width: 360px;
+height: 336px; 
+}
 .modal-input {
 border: 1px solid #4d5ae5;
 border-radius: 4px;
