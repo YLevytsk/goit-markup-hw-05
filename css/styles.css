@@ -137,8 +137,16 @@ padding: 16px 32px;
 width: 169px;
 height: 56px;
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-background: #4d5ae5;
+background color: #4d5ae5;
+font-family: var(--font-family);
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.04em;
+text-align: center;
+color: #fff;
 }
+
 .checkbox-input:checked + label .checkbox-true svg {
    fill: #f4f4f4; 
 }
