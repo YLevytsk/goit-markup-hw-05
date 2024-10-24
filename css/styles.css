@@ -131,6 +131,14 @@ height: 16px;
   background-color:  #404bbf; 
   border: none;
 }
+.modal-action-button {
+border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: #4d5ae5;
+}
 .checkbox-input:checked + label .checkbox-true svg {
    fill: #f4f4f4; 
 }
