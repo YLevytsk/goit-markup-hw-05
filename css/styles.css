@@ -44,6 +44,15 @@ body {
     0 2px 1px 0 rgba(0, 0, 0, 0.2);
       transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 } 
+.modal-text {
+font-family: var(--font-family);
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
 .backdrop:not(.is-open) .modal {
     transform: translate(-50%, -100%);
 }
