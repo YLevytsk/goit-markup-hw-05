@@ -17,7 +17,7 @@ body {
     left: 0;
     width: 100%; 
     height: 100%;
-    background-color: rgba(46, 47, 66, 0.4);
+   background-color: rgba(46, 47, 66, 0.4);
     opacity: o;
     visibility: hidden;
     pointer-events: none;
@@ -36,11 +36,12 @@ body {
     left: 50%;
     width: 408px;
     min-height: 584px;
-    border-radius: 2px;
+    border-radius: 4px;
     transform: translate(-50%, -50%);
     background: #fcfcfc;
-    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.14);
-    transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12),
+    0 2px 1px 0 rgba(0, 0, 0, 0.2);
+      transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 } 
 .backdrop:not(.is-open) .modal {
     transform: translate(-50%, -100%);
