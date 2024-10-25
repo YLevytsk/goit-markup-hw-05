@@ -127,6 +127,7 @@ height: 120px;
 .modal-checkbox {
 width: 360px;
 height: 16px;
+margin-bottom: 24px;
 }
 .modal-input-wrap {
    position: relative;   
