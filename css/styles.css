@@ -110,7 +110,7 @@ height: 40px;
 .modal-input-comment:hover {
    border: 1px solid #4d5ae5;   
 }
-.modal-input {
+.modal-input-blue {
 border: 1px solid rgba(46, 47, 66, 0.4);
 border-radius: 4px;
 width: 360px;
