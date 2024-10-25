@@ -99,9 +99,10 @@ width: 360px;
 height: 40px;
 }
 modal-field {
-   border-radius: 4px;
+border-radius: 4px;
 width: 360px;
-height: 336px; 
+height: 336px;
+margin-bottom: 16px;
 }
 .modal-input-comment {
 border: 1px solid rgba(46, 47, 66, 0.4);
