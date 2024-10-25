@@ -112,6 +112,9 @@ border-radius: 4px;
 width: 360px;
 height: 120px;
 }
+.input:focus + svg {
+fill:#4D5AE5;  
+}
 .modal-action-button {
   position: absolute; /* Позволяет позиционировать кнопку относительно родителя */
   bottom: 24px; /* Расстояние от низа */
