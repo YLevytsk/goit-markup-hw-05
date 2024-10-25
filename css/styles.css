@@ -89,7 +89,7 @@ color: #2e2f42;
 }
 .modal-field {
 border-radius: 4px;
-margin-bottom: 8px;
+margin-bottom: 16px;
 }
 .modal-input {
 border-radius: 4px;
@@ -151,7 +151,7 @@ width: 100%;
 .modal-checkbox {
 width: 360px;
 height: 16px;
-margin-bottom: 16px;
+margin-bottom: 24px;
 }
 .modal-input-wrap {
    position: relative;   
