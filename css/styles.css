@@ -106,6 +106,10 @@ height: 40px;
 .modal-input:hover {
  border: 1px solid #4d5ae5;   
 }
+.modal-input-comment:focus,
+.modal-input-comment:hover {
+   border: 1px solid #4d5ae5;   
+}
 .modal-input {
 border: 1px solid rgba(46, 47, 66, 0.4);
 border-radius: 4px;
