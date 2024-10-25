@@ -112,6 +112,7 @@ border-radius: 4px;
 width: 360px;
 height: 120px;
 }
+.modal-input:focus + .modal-icon > 
 .input:focus + svg {
 fill:#4D5AE5;  
 }
