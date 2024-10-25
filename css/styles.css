@@ -112,10 +112,12 @@ border-radius: 4px;
 width: 360px;
 height: 120px;
 }
-.modal-input:focus + .modal-icon > 
-.input:focus + svg {
-fill:#4D5AE5;  
+.input-checkbox visually-hidden:focus + .checkbox-form  > .checkbox-true {
+   background-color:#4D5AE5; 
+   fill: #f4f4fd;
+   border: none;
 }
+
 .modal-action-button {
   position: absolute; /* Позволяет позиционировать кнопку относительно родителя */
   bottom: 24px; /* Расстояние от низа */
