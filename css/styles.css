@@ -85,7 +85,7 @@ color: #2e2f42;
 border-radius: 4px;
 width: 360px;
 height: 336px;
-margin-bottom: 8px;
+margin-bottom: 16px;
 }
 .modal-input-blue {
 border: 1px solid #4d5ae5;
@@ -98,12 +98,6 @@ border: 1px solid rgba(46, 47, 66, 0.4);
 border-radius: 4px;
 width: 360px;
 height: 40px;
-}
-modal-field {
-border-radius: 4px;
-width: 360px;
-height: 336px;
-margin-bottom: 16px;
 }
 .modal-input-comment {
 border: 1px solid rgba(46, 47, 66, 0.4);
