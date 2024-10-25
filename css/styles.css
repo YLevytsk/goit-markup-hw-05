@@ -213,8 +213,8 @@ fill: #f4f4fd;
     background-color: #404bbf;
     border: none; 
 }
-.modal-icon:hover,
-.modal-icon:focus {
+icon-modal-close:hover,
+icon-modal-close:focus {
 fill: #ffffff;
 }
 
