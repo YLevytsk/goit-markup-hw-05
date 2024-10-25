@@ -71,7 +71,9 @@ color: #8e8f99;
 display: block;
 margin-bottom: 4px;
  }
-
+modal-icon {
+    transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);  
+}
 .modal-text {
 font-family: "Roboto", sans-serif;
 font-weight: 500;
@@ -123,7 +125,7 @@ height: 120px;
   bottom: 24px; /* Расстояние от низа */
   left: 50%; /* Позиционируем по центру */
   transform: translateX(-50%);
-   
+
 }/* Центрируем кнопку */
 .modal-checkbox {
 width: 360px;
