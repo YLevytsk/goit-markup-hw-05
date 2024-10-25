@@ -154,7 +154,8 @@ height: 16px;
 margin-bottom: 24px;
 }
 .modal-input-wrap {
-   position: relative;   
+   position: relative;
+    margin-bottom: 16px;  
 }
 .backdrop:not(.is-open) .modal {
     transform: translate(-50%, -100%);
