@@ -210,7 +210,7 @@ fill: #f4f4fd;
 }
 .modal-button:hover,
 .modal-button:focus {
-    background-color:#ffffff ;
+    background-color:#404bbf;
     border: none; 
 }
 icon-modal-close:hover,
