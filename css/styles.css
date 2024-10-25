@@ -141,7 +141,7 @@ width: 100%;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);  
 }
 
-.input-checkbox visually-hidden:focus + .checkbox-form  > .checkbox-true {
+.input-checkbox visually-hidden:focus + .checkbox-form  > .checkbox-true-svg {
    background-color:#4D5AE5; 
    fill: #f4f4fd;
    border: none;
@@ -207,7 +207,7 @@ color: #fff;
     fill: #f4f4fd;
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.visually-hidden:checked + .checkbox-form .checkbox-true {
+.visually-hidden:checked + .checkbox-form .checkbox-true-svg {
 fill: #f4f4fd;
 }
 .checkbox-form {
