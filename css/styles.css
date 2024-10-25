@@ -157,7 +157,7 @@ width: 100%;
 .modal-checkbox {
 width: 360px;
 height: 16px;
-margin-bottom: 16px;
+margin-bottom: 24px;
 }
 .modal-input-wrap {
 position: relative;
@@ -168,7 +168,6 @@ position: relative;
 }
 .checkbox-true {
     display: inline-flex;
-    margin-bottom: 24px;
     align-items: center;
     justify-content: center;
    width: 16px;
@@ -219,7 +218,6 @@ fill: #f4f4fd;
     letter-spacing: 0.04em;
     color: #8e8f99;
     line-height: 1.17;
-    margin-bottom: 24px;
 }
 .privacy-policy {
     line-height: 1.33333;
