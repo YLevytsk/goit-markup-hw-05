@@ -122,6 +122,9 @@ height: 120px;
 width: 360px;
 height: 16px;
 }
+.modal-input-wrap {
+   position: relative;   
+}
 .backdrop:not(.is-open) .modal {
     transform: translate(-50%, -100%);
 }
