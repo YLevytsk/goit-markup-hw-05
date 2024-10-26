@@ -40,6 +40,7 @@ body {
 }
 .send-email {
     margin-left: 16px;
+    fill: #fff;
 }
 .modal-email::placeholder {
     color: #ffffff; /* Белый цвет текста placeholder */
