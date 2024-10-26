@@ -199,7 +199,7 @@ height: 40px;
    border: none;
 }
 .modal-button:hover .icon-modal-close {
-    fill: #fff;
+    fill: #ffffff;
 }
 .modal-action-button {
   position: absolute; /* Позволяет позиционировать кнопку относительно родителя */
