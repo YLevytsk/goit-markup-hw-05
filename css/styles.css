@@ -198,7 +198,9 @@ height: 40px;
    fill: #f4f4fd;
    border: none;
 }
-.modal-button:hover .icon-modal-close {
+.modal-button:hover .icon-modal-close,
+.modal-button:focus .icon-modal-close
+ {
     fill: #ffffff;
 }
 .modal-action-button {
