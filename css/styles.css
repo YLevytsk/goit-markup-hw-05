@@ -226,6 +226,11 @@ height: 40px;
     color: #8e8f99;
     line-height: 1.17;
 }
+.checkbox-true:checked {
+     background-color: #404bbf; 
+     border: none;
+      fill: #F4F4FD;
+}
 .privacy-policy {
     line-height: 1.33333;
     text-decoration: underline;
