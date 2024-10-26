@@ -166,7 +166,9 @@ position: relative;
 .backdrop:not(.is-open) .modal {
     transform: translate(-50%, -100%);
 }
-
+.modal-input:focus + .modal-icon {
+     fill: #4D5AE5;
+}
 .checkbox-true {
     display: inline-flex;
     align-items: center;
