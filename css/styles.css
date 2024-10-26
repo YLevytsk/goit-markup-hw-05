@@ -32,10 +32,15 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #ffffff;
-    
+
 }
+.fild-email{
+    display: flex;
+    gap:24px;
+}
+.email-form {
 
-
+}
 
 .backdrop.is-open {
     opacity: 1;
