@@ -120,11 +120,11 @@ width: 360px;
 height: 40px;
 }
 .modal-input-comment {
-border: 1px solid rgba(46, 47, 66, 0.4);
-border-radius: 4px;
-width: 360px;
-height: 120px;
-width: 100%;
+  border: 1px solid rgba(46, 47, 66, 0.4);
+  border-radius: 4px;
+  width: 360px;
+  height: 120px;
+  width: 100%;
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
