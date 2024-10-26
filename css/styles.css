@@ -168,6 +168,11 @@ height: 40px;
 .modal-input:focus + .modal-icon {
     fill: #4D5AE5;
 }
+.icon-modal-close:hover,
+.icon-modal-close:focus {
+    fill: #ffffff;
+}
+
 .checkbox-true {
     display: inline-flex;
     align-items: center;
