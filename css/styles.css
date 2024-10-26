@@ -38,9 +38,9 @@ body {
     display: flex;
     gap:24px;
 }
-.email-form {
-
-}
+.modal-email::placeholder {
+    color: #ffffff; /* Белый цвет текста placeholder */
+  }
 .modal-email {
     width: 264px;
     height: 40px;
