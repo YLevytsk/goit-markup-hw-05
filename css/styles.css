@@ -155,13 +155,12 @@ width: 100%;
 
 }/* Центрируем кнопку */
 .modal-checkbox {
-width: 360px;
-height: 16px;
-margin-bottom: 24px;
+ width: 360px;
+ height: 16px;
+ margin-bottom: 24px;
 }
 .modal-input-wrap {
-position: relative;
- margin-bottom: 8px;  
+position: relative;  
 }
 .backdrop:not(.is-open) .modal {
     transform: translate(-50%, -100%);
