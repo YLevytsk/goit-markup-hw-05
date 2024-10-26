@@ -198,7 +198,9 @@ height: 40px;
    fill: #f4f4fd;
    border: none;
 }
-
+.modal-button:hover .icon-modal-close {
+    fill: #fff;
+}
 .modal-action-button {
   position: absolute; /* Позволяет позиционировать кнопку относительно родителя */
   bottom: 24px; /* Расстояние от низа */
@@ -219,14 +221,6 @@ height: 40px;
 }
 .modal-input:focus + .modal-icon {
     fill: #4D5AE5;
-}
-.icon-modal-close:hover,
-.icon-modal-close:focus {
-    fill: #ffffff;
-}
-.icon-modal-close {
-    fill: #2E2F42;
-
 }
 .checkbox-true {
     display: inline-flex;
@@ -321,11 +315,6 @@ height: 40px;
     background-color:#404bbf;
     border: none; 
 }
-.icon-modal-close:hover,
-.icon-modal-close:focus {
-fill: #ffffff;
-}
-
 .checkbox-vector {
     fill: #2e2f42;
 }
