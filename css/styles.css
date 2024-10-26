@@ -38,6 +38,9 @@ body {
     display: flex;
     gap:24px;
 }
+.send-email {
+    margin-left: 16px;
+}
 .modal-email::placeholder {
     color: #ffffff; /* Белый цвет текста placeholder */
   }
