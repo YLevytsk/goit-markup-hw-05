@@ -224,7 +224,10 @@ height: 40px;
 .icon-modal-close:focus {
     fill: #ffffff;
 }
+.icon-modal-close {
+    fill: #2E2F42;
 
+}
 .checkbox-true {
     display: inline-flex;
     align-items: center;
@@ -318,8 +321,8 @@ height: 40px;
     background-color:#404bbf;
     border: none; 
 }
-icon-modal-close:hover,
-icon-modal-close:focus {
+.icon-modal-close:hover,
+.icon-modal-close:focus {
 fill: #ffffff;
 }
 
