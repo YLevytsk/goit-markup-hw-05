@@ -187,7 +187,11 @@ position: relative;
     border 250ms cubic-bezier(0.4, 0, 0.2, 1),
     fill 250ms cubic-bezier(0.4, 0, 0.2, 1);   
 }
-
+.input-checkbox visually-hidden:checked + .checkbox-form > checkbox-true {
+    background-color: #404bbf;
+    border: none; 
+    fill: #F4F4FD; 
+}
 .modal-action-button {
  font-family: "Roboto", sans-serif;  
 border-radius: 4px;
