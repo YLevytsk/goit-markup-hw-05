@@ -166,6 +166,7 @@ position: relative;
 .backdrop:not(.is-open) .modal {
     transform: translate(-50%, -100%);
 }
+
 .checkbox-true {
     display: inline-flex;
     align-items: center;
